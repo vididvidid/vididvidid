@@ -1,4 +1,4 @@
-# I just love solving problems with my engineering skills, not becoming an encyclopedia of engineering.
+# Give yourself the confidence to create anything your imagination brings. Go beyond documentation, Become it.
 
 Observe -> Understand -> Solve -> Move to next Project
 
