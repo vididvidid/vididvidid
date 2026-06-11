@@ -1,9 +1,3 @@
-# Give yourself the confidence to create anything your imagination brings. Go beyond documentation, Become it.
-
-Observe -> Understand -> Solve -> Move to next Project
-
----
-
 ## 📊 GitHub Stats
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vididvidid&show_icons=true&theme=radical)
